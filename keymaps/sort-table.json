@@ -1,0 +1,6 @@
+{
+  ".CodeMirror textarea": {
+    "ctrl-cmd-j": "sort-table:asc",
+    "ctrl-cmd-k": "sort-table:desc"
+  }
+}

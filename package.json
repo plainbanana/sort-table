@@ -1,0 +1,13 @@
+{
+  "name": "sort-table",
+  "main": "./lib/index",
+  "version": "0.1.0",
+  "description": "Sort markdown table order by asc/desc",
+  "keywords": [],
+  "repository": "https://github.com/plainbanana/sort-table",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
