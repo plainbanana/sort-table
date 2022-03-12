@@ -1,7 +1,7 @@
 {
   "name": "sort-table",
   "main": "./lib/index",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sort markdown table order by asc/desc",
   "keywords": [],
   "repository": "https://github.com/plainbanana/sort-table",
